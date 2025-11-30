@@ -67,12 +67,7 @@ top [옵션]
 
 ## 실행 이미지
 
-
-
-
-
-
-
+<img width="1920" height="1032" alt="top" src="https://github.com/user-attachments/assets/9c45cd15-5351-4278-9e33-d7b5c6f13dd3" />
 
 
 ### 출처
@@ -104,6 +99,8 @@ $ ps [옵션]
 + D (Uninterruptible Sleep): 프로세스가 디스크 입출력과 같은 시스템 활동에 의해 대기 상태에 있으며, 인터럽트할 수 없는 상태이다.
 
 ## 실행 이미지
+<img width="1008" height="84" alt="ps" src="https://github.com/user-attachments/assets/ec5d0c9e-eca6-49d3-8b85-792a8894ecc4" />
+
 
 
 ### 출처
@@ -138,6 +135,8 @@ jobs [옵션] [jobID]
 | Stopped (SIGTTOU) | SIGTTOU 신호가 작업을 일시 중단했음을 뜻 |
 
 ## 실행 이미지
+<img width="1008" height="84" alt="jops" src="https://github.com/user-attachments/assets/6797d32b-5de2-4e66-8530-9dc66e881da0" />
+
 
 ### 출처
 - 이미지 : 본인
@@ -165,6 +164,9 @@ $ kill [옵션] [프로세스ID]
 | SIGKILL | 강제 종료 시그널 |
 | SIGTERM | 정상 종료 요청 시그널 |
 | SIGSTOP | 프로세스 일시 정지 시그널 |
+
+## 실행 이미지
+<img width="1008" height="74" alt="kill" src="https://github.com/user-attachments/assets/bb7c3b74-eeb0-48a7-afb0-095faf362692" />
 
 
 ### 출처
